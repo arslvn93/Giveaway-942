@@ -1694,32 +1694,30 @@ function populateNewFooterData() {
                 }
 
                 // console.log("Final combined data to be sent:", JSON.stringify(finalPayload, null, 2));
-                const webhookUrl = "https://n8n.salesgenius.co/webhook/giveaway";
+                
+                // Use Netlify Function as secure proxy (keeps auth credentials server-side)
+                const functionUrl = "/.netlify/functions/submit-entry";
 
-                if (webhookUrl && webhookUrl.startsWith("http")) { // Check if it's a valid-looking URL
-                    try {
-                        const response = await fetch(webhookUrl, {
-                            method: 'POST',
-                            headers: { 'Content-Type': 'application/json' },
-                            body: JSON.stringify(finalPayload),
-                            mode: 'cors'
-                        });
+                try {
+                    const response = await fetch(functionUrl, {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(finalPayload)
+                    });
 
-                        if (!response.ok) {
-                            const responseText = await response.text();
-                            console.error("Final webhook submission failed:", response.status, responseText);
-                            alert('There was an issue submitting your entry. Please try again.');
-                        } else {
-                            // console.log("Final webhook submission successful. Redirecting to thank you page.");
-                            window.location.href = 'thankyou.html';
-                        }
-                    } catch (error) {
-                        console.error("Final webhook submission error:", error);
-                        alert('An error occurred while submitting your entry. Please check your connection and try again.');
+                    if (!response.ok) {
+                        const responseData = await response.json().catch(() => ({ error: 'Unknown error' }));
+                        console.error("Submission failed:", response.status, responseData);
+                        alert('There was an issue submitting your entry. Please try again.');
+                    } else {
+                        // console.log("Submission successful. Redirecting to thank you page.");
+                        window.location.href = 'thankyou.html';
                     }
-                } else {
-                    // console.log("Demo submit (webhook URL not configured or is placeholder). Redirecting to thank you page.");
-                    window.location.href = 'thankyou.html';
+                } catch (error) {
+                    console.error("Submission error:", error);
+                    alert('An error occurred while submitting your entry. Please check your connection and try again.');
                 }
             }
 

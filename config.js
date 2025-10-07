@@ -1,32 +1,32 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $500 Holiday Family Photoshoot - Free Entry!",
+    "navBrandLogoText": "Erica Reddy-Choquette",
+    "privacyPolicyLink": "https://ericareddy.com"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Free Holiday Photoshoot</span> for Your Family or as a Couple!",
+    "heroSubheadline": "Make warm holiday memories with a pro photo session. $500 value. Session is on November 29 at 10:00 a.m. Enter by October 25.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b4hpgvyh49rma0csqvk9cxyht4.jpg",
+    "promotionDates": "Enter Oct 15–Oct 25, 2025. Winner picked Oct 25. Photoshoot on Nov 29 at 10:00 a.m.",
+    "endDate": "2025-10-26T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Holiday Memories Giveaway",
+    "successModalHeaderText": "You're In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner.",
+    "successModalEmailPrompt": "The session is on November 29 at 10:00 a.m. Good luck!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#C62828",
+      "#2E7D32",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,142 +35,162 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner. The session is on November 29 at 10:00 a.m. Good luck!",
+    "socialPromptText": "Follow @ericareddy on Instagram for the winner post and updates."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fps96chq79rme0csqvkt1vc1vm.jpg",
+        "alt": "Family cuddled in cozy sweaters during a holiday photoshoot"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/831qsnmt5xrme0csqvkt58gj04.jpg",
+        "alt": "Couple smiling with soft holiday lights in the background"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wg6s41qvm9rme0csqvkswptkb4.jpg",
+        "alt": "Kids laughing while holding festive props in a photo session"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/z2fr6h2xt1rm80csqvm9wq3c1r.jpg",
+        "alt": "Close-up of hands holding a holiday card photo print"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-camera",
+        "text": "Personal holiday photoshoot on Nov 29 at 10:00 a.m."
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-image",
+        "text": "Edited digital images to keep and share"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-heart",
+        "text": "Perfect for couples and families"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-gift",
+        "text": "Holiday-card-ready photos"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Location details shared with the winner"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Holiday Memories Family Photoshoot",
+    "value": "$500 Value",
+    "description": "Picture this: cozy sweaters, big smiles, and laughter you can feel. A calm, fun photo session that lets your love shine. You walk away with beautiful images you can share, print, and treasure. Perfect for holiday cards and gifts. It is simple. It is special. It is all about your family or your love.",
+    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Oct 25!",
+    "ctaButtonText": "Save My Spot in the Draw!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Share your name and best email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Tell us a bit about your home plans. Easy and helpful."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Entered!",
+        "description": "We draw on Oct 25 and email the winner. That's it!"
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
-      },
-      {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "text": "100% free to enter"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Great for couples and families"
+      },
+      {
+        "icon": "fas fa-camera-retro",
+        "text": "Holiday-card-ready images"
+      },
+      {
+        "icon": "fas fa-calendar-check",
+        "text": "Set session time: Nov 29, 10:00 a.m."
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "Please read the fine print before entering. Adults 18+ Ontario residents only. One entry per person.",
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Adults 18+ who can attend the Nov 29 session. Ontario residents only."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "When is the draw?",
+        "a": "We draw on Oct 25, 2025 and email the winner the same day."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I need to buy anything?",
+        "a": "No. Entry is free. No purchase needed."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Where is the photoshoot?",
+        "a": "The winner will get the location details by email. It will be local and easy to reach."
+      },
+      {
+        "q": "What if the weather is bad?",
+        "a": "We will confirm a simple weather plan with the photographer before the session."
+      },
+      {
+        "q": "How do I get my photos?",
+        "a": "The photographer will share your edited images digitally so you can download and print."
+      },
+      {
+        "q": "How many times can I enter?",
+        "a": "One entry per person to keep it fair."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email so we can reach you",
+      "Be sure you can attend Nov 29 at 10:00 a.m.",
+      "Tell friends and family to enter too",
+      "Follow @ericareddy on Instagram for updates"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Draw",
+      "text": "We use a random draw tool. Every entry has the same chance. No tricks. No pressure. Just fair and fun."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Must Be Able to Attend",
+      "text": "The session is on November 29 at 10:00 a.m. If the winner cannot attend, we may pick another winner to keep it fair."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-942.netlify.app%2F",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-942.netlify.app%2F&text=Win%20%24500%20Holiday%20Family%20Photoshoot%20-%20Free%20Entry%21"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details below for a chance to win this $500 Holiday Memories Photoshoot!",
+    "entryCountText": "Entries close Oct 25. Don't miss out.",
+    "socialSharePrompt": "Share this with friends who love holiday photos:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +220,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +258,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "",
+      "instagram": "https://instagram.com/ericareddy"
     },
     "agentContact": {
-      "name": "Julian Kashani",
+      "name": "Erica Reddy-Choquette",
       "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "phone": "(416) 587-2782",
+      "email": "erica@ericareddy.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Erica Reddy-Choquette, Royal LePage Signature. Not sponsored by or affiliated with Instagram or Facebook. Contest runs Oct 15–Oct 25, 2025. Winner selected at random from eligible entries. Must be 18+ and an Ontario resident to enter. One entry per person. Winner must be able to attend the Nov 29, 10:00 a.m. session.",
+    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/7e31da39-ace2-4d7f-bd29-9a2e5402db63/EricaReddyTEAM_Logo_Final_Mar23_2016.png",
+    "secondaryLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/2d3322d2-1afe-448b-83c7-57b6eb3e9931/DSC00313.jpg",
+    "secondaryLogoAlt": "Erica Reddy-Choquette Headshot",
+    "organizerName": "Erica Reddy-Choquette",
+    "brokerageName": "Royal LePage Signature",
+    "address": "8 Sampson Mews Unit 201, Toronto, ON M3C 0H5",
+    "email": "erica@ericareddy.com",
+    "phone": "(416) 587-2782",
+    "copyrightOwner": "Erica Reddy-Choquette"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-942",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-942",
+    "netlifyUrl": "http://Giveaway-942.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Holiday Photoshoot Giveaway"
   }
 };

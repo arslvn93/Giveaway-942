@@ -76,7 +76,7 @@ const config = {
     ],
     "name": "Holiday Memories Family Photoshoot",
     "value": "$500 Value",
-    "description": "Picture this: cozy sweaters, big smiles, and laughter you can feel. A calm, fun photo session that lets your love shine. You walk away with beautiful images you can share, print, and treasure. Perfect for holiday cards and gifts. It is simple. It is special. It is all about your family or your love.",
+    "description": "",
     "limitedTimeOfferText": "Limited Fall Giveaway — Ends Oct 25!",
     "ctaButtonText": "Save My Spot in the Draw!"
   },
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760035429061_0",
+      "id": "q_auto_1760035435627_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760035429061_1",
+      "id": "q_auto_1760035435627_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760035429061_2",
+      "id": "q_auto_1760035435627_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

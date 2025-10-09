@@ -71,7 +71,7 @@ const config = {
       },
       {
         "icon": "fas fa-map-marker-alt",
-        "text": "Location details shared with the winner"
+        "text": " The ICONIC ROOM - Icon Studios: 142 St Helens Ave, Unit 301, Toronto Ontario, M6H0B9"
       }
     ],
     "name": "Holiday Memories Family Photoshoot",
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760036068455_0",
+      "id": "q_auto_1760036131250_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760036068455_1",
+      "id": "q_auto_1760036131250_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760036068455_2",
+      "id": "q_auto_1760036131250_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

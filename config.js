@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $500 Holiday Family Photoshoot - Free Entry!",
+    "pageTitle": "Win $500 Holiday Photoshoot - Free Entry!",
     "navBrandLogoText": "Erica Reddy-Choquette",
     "privacyPolicyLink": "https://ericareddy.com/privacy-policy/"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>Free Holiday Photoshoot</span> for Your Family or as a Couple!",
-    "heroSubheadline": "Make warm holiday memories with a pro photo session. $500 value. Session is on November 29 at 10:00 a.m. Enter by October 25.",
+    "heroHeadline": "Win a <span class='highlight'>Free Holiday Photoshoot!</span>",
+    "heroSubheadline": "I have partnered with Liz Salzman Photography for a memorable holiday session values at $500.00.  Holiday photoshoot is on November 29, 2025 at 10:00 a.m.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b4hpgvyh49rma0csqvk9cxyht4.jpg",
     "promotionDates": "Enter Oct 15–Oct 25, 2025. Winner picked Oct 25. Photoshoot on Nov 29 at 10:00 a.m.",
     "endDate": "2025-10-26T03:59:00.000Z",
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760028918304_0",
+      "id": "q_auto_1760035429061_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760028918304_1",
+      "id": "q_auto_1760035429061_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760028918304_2",
+      "id": "q_auto_1760035429061_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

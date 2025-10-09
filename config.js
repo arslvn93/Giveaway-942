@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win $500 Holiday Family Photoshoot - Free Entry!",
     "navBrandLogoText": "Erica Reddy-Choquette",
-    "privacyPolicyLink": "https://ericareddy.com"
+    "privacyPolicyLink": "https://ericareddy.com/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free Holiday Photoshoot</span> for Your Family or as a Couple!",
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner. The session is on November 29 at 10:00 a.m. Good luck!",
-    "socialPromptText": "Follow @ericareddy on Instagram for the winner post and updates."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -132,8 +126,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Adults 18+ Ontario residents only. One entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -170,6 +162,8 @@ const config = {
       "Tell friends and family to enter too",
       "Follow @ericareddy on Instagram for updates"
     ],
+    "finePrintText": "Please read the fine print before entering. Adults 18+ Ontario residents only. One entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Draw",
       "text": "We use a random draw tool. Every entry has the same chance. No tricks. No pressure. Just fair and fun."
@@ -190,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1760028918304_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -212,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1760028918304_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -234,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1760028918304_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -256,6 +250,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner. The session is on November 29 at 10:00 a.m. Good luck!",
+    "socialPromptText": "Follow @ericareddy on Instagram for the winner post and updates."
+  },
   "footerContact": {
     "social": {
       "facebook": "",
@@ -268,8 +274,8 @@ const config = {
       "email": "erica@ericareddy.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Erica Reddy-Choquette, Royal LePage Signature. Not sponsored by or affiliated with Instagram or Facebook. Contest runs Oct 15–Oct 25, 2025. Winner selected at random from eligible entries. Must be 18+ and an Ontario resident to enter. One entry per person. Winner must be able to attend the Nov 29, 10:00 a.m. session.",
-    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/7e31da39-ace2-4d7f-bd29-9a2e5402db63/EricaReddyTEAM_Logo_Final_Mar23_2016.png",
-    "secondaryLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/2d3322d2-1afe-448b-83c7-57b6eb3e9931/DSC00313.jpg",
+    "organizerLogoUrl": "https://iili.io/K5mGdR2.webp",
+    "secondaryLogoUrl": "https://iili.io/K5mC1Q1.webp",
     "secondaryLogoAlt": "Erica Reddy-Choquette Headshot",
     "organizerName": "Erica Reddy-Choquette",
     "brokerageName": "Royal LePage Signature",

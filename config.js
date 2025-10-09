@@ -19,7 +19,7 @@ const config = {
   },
   "settings": {
     "confettiColors": [
-      "#800020",
+      "#8E4585",
       "#2E7D32",
       "#FFFFFF"
     ],
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760035834948_0",
+      "id": "q_auto_1760035916316_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760035834948_1",
+      "id": "q_auto_1760035916316_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760035834948_2",
+      "id": "q_auto_1760035916316_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

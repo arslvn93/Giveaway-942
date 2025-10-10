@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free Holiday Photoshoot!</span>",
-    "heroSubheadline": "I have partnered with Liz Salzman Photography for a memorable holiday session values at $500.00.  Holiday photoshoot is on November 29, 2025 at 10:00 a.m.",
+    "heroSubheadline": "I have partnered with Liz Salzman Photography for a memorable holiday session valued at $500.00.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b4hpgvyh49rma0csqvk9cxyht4.jpg",
     "promotionDates": "Enter Oct 15–Oct 25, 2025. Winner picked Oct 25. Photoshoot on Nov 29 at 10:00 a.m.",
     "endDate": "2025-10-26T03:59:00.000Z",
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760119703020_0",
+      "id": "q_auto_1760119863337_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760119703020_1",
+      "id": "q_auto_1760119863337_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760119703020_2",
+      "id": "q_auto_1760119863337_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

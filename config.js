@@ -77,7 +77,7 @@ const config = {
     "name": "Free Holiday Photoshoot",
     "value": "$500 Value",
     "description": "",
-    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Oct 25!",
+    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Nov 10!",
     "ctaButtonText": "Save My Spot in the Draw!"
   },
   "howToEnter": {
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760460025841_0",
+      "id": "q_auto_1760460043138_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460025841_1",
+      "id": "q_auto_1760460043138_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460025841_2",
+      "id": "q_auto_1760460043138_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

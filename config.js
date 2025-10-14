@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760460314443_0",
+      "id": "q_auto_1760460324076_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460314443_1",
+      "id": "q_auto_1760460324076_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460314443_2",
+      "id": "q_auto_1760460324076_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -259,7 +259,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner. The session is on November 29 at 10:00 a.m. Good luck!",
+    "mainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on November 11 and email the winner. The session is on November 29 at 10:00 a.m. Good luck!",
     "socialPromptText": "Follow @ericareddy on Instagram for the winner post and updates."
   },
   "footerContact": {

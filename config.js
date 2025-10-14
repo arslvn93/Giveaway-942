@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760460248208_0",
+      "id": "q_auto_1760460314443_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460248208_1",
+      "id": "q_auto_1760460314443_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460248208_2",
+      "id": "q_auto_1760460314443_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -273,7 +273,7 @@ const config = {
       "phone": "(416) 587-2782",
       "email": "erica@ericareddy.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Erica Reddy-Choquette, Royal LePage Signature. Not sponsored by or affiliated with Instagram or Facebook. Contest runs Oct 15–Oct 25, 2025. Winner selected at random from eligible entries. Must be 18+ and an Ontario resident to enter. One entry per person. Winner must be able to attend the Nov 29, 10:00 a.m. session.",
+    "footerDisclaimer": "This giveaway is sponsored by Erica Reddy-Choquette, Royal LePage Signature. Not sponsored by or affiliated with Instagram or Facebook. Contest runs until Nov 10, 2025. Winner selected at random from eligible entries. Must be 18+ and an Ontario resident to enter. One entry per person. Winner must be able to attend the Nov 29, 10:00 a.m. session.Any automated, duplicate, or suspicious entries may be disqualified, and prizes will not be awarded in such cases.",
     "organizerLogoUrl": "https://iili.io/K5mGdR2.webp",
     "secondaryLogoUrl": "https://iili.io/K5mC1Q1.webp",
     "secondaryLogoAlt": "Erica Reddy-Choquette Headshot",

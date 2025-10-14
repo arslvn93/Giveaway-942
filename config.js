@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Holiday Memories Giveaway",
     "successModalHeaderText": "You're In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on October 25 and email the winner.",
+    "successModalMainMessage": "Your entry for the <strong>Holiday Memories Family Photoshoot</strong> is in. We will draw on November 11 and email the winner.",
     "successModalEmailPrompt": "The session is on November 29 at 10:00 a.m. Good luck!"
   },
   "settings": {
@@ -179,12 +179,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-942.netlify.app%2F&text=Win%20%24500%20Holiday%20Family%20Photoshoot%20-%20Free%20Entry%21"
     },
     "subtitle": "Enter your details below for a chance to win this $500 Holiday Memories Photoshoot!",
-    "entryCountText": "Entries close Oct 25. Don't miss out.",
+    "entryCountText": "Entries close Nov 10. Don't miss out.",
     "socialSharePrompt": "Share this with friends who love holiday photos:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760460222091_0",
+      "id": "q_auto_1760460248208_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460222091_1",
+      "id": "q_auto_1760460248208_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760460222091_2",
+      "id": "q_auto_1760460248208_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {

@@ -27,8 +27,8 @@ const config = {
     "theme": "light",
     "primaryColorOverride": "#801B4B",
     "secondaryColorOverride": "#801B4B",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/99hGoJd8jrOMyvuj4Buf/webhook-trigger/hNSPuFtK0DfbgtJZAnbZ",
+    "facebookPixelId": "1678561536409076",
     "turnstileSiteKey": "0x4AAAAAAB7r1m-A50Awaaos",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760989558432_0",
+      "id": "q_auto_1761226970017_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760989558432_1",
+      "id": "q_auto_1761226970017_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760989558432_2",
+      "id": "q_auto_1761226970017_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -290,6 +290,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-942",
     "netlifyUrl": "http://Giveaway-942.netlify.app",
     "netlifyId": "",
-    "tag": "Holiday Photoshoot Giveaway"
+    "tag": "Holidays Memories Giveaway"
   }
 };
